@@ -4,7 +4,7 @@
 ●	Install R studio \
 ●	Install libraries mentioned in Libraries.txt file for this project
 
-# Churn_Prediction_in_Telecom_using_R
+# Churn Prediction in Telecom using R
 
 ## Overview: 
 Customer churn occurs when customers or subscribers stop doing business with a company or service, also known as customer attrition. It is also referred to as loss of clients or customers. One industry in which churn rates are particularly useful is the telecommunications industry, because most customers have multiple options from which to choose within a geographic location. Objective: Telecom observed a set of customers for a certain period of time and provided the information whether the customer churned or not. Along with this information, Telecom provided several other information that could affect the churn. The objective was to look for general patterns in the provided data that would help to identify customers that are more likely to churn, before they do that, so the company could address them and prevent their churn. We will predict behaviour to retain customers at a home phone and internet service provider called Telco. We'll first use exploratory data analysis to understand the relationships between the features and the target variable and identify factors that are influential in predicting customer attrition. Using these features, We'll develop a predictive model to help the company proactively reduce their churn rate and use insights from the model to strengthen their customer retention strategies. 
